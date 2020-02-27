@@ -32,3 +32,54 @@ public void conditionalStatement() {
          System.out.println("Number is 0.");
       } 
    }
+3. Write a method with below criteria
+   a.return a String 
+   b.Accept the parameters as String value
+   c.While calling this method, it should return the value I passed into the arguments/parameters.
+   
+4.Write a method with below criteria
+   a.Create two method with Similar method name
+   b.method one will accept two int value as argumets/parameters
+   c.method two will accept two String value as arguments/parameters
+   d.Inside method just prin the value that we are passing into the method
+   e.both method does not return anything.
+   
+5. What is the output of the following code
+   for(int k=10;k<100;k=k+10)
+   {
+      System.out.println(k);
+   }
+
+6.Will the below code print as "FITA Tambaram" ?
+   int i=0;
+   while(i<0){
+      System.out.println("FITA Tambaram");
+   }
+   
+7.what is the ouput of below code if below conditions are applied
+   a.i is -1000
+   b.i is 1000
+   c.i is 10000
+   d.i is -1
+   e.i is 999
+   
+   do{
+      if(i<1001)
+      {
+         System.out.println("i is less than 1001");
+      }
+      else if(i>1000){
+         System.out.println("i is Gretter than 1000");
+      }
+      else if(i<0){
+         System.out.println("i is Negative value")
+      }
+      else{
+         System.out.println("i is in Else")
+      }   
+      }while(i<1000)
+      
+ 8. Declare a static variable as String type
+ 9. Declare a boolean value with default value as true
+ 10.Declare a 
+   
